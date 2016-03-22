@@ -1,6 +1,6 @@
 # Angular
 
-Repo where I can keep track projects I have completed using AngularJS and the code that I have used.
+Repo where I can keep track of projects I have completed using AngularJS and the code that I have used.
 
 #### Projects
 
