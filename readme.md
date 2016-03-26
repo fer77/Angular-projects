@@ -10,9 +10,9 @@ Repo where I can keep track of projects I have completed using AngularJS and the
 
 ## TV Guide
 
-Movie review board using a controller and a view.
+Movie review board using a controller, a view, and a custom directive.
 
-<img src="http://i.imgur.com/Td1fcqr.png"/>
+<img src="http://i.imgur.com/pcXkBSZ.png"/>
 
 ## Pizza Planet
 
