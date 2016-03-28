@@ -4,12 +4,13 @@ Repo where I can keep track of projects I have completed using AngularJS and the
 
 #### Projects
 
-1. [TV Guide](##TV Guide)
-2. [Pizza Planet](##Pizza Planet)
-3. [Workout Log](##Workout Log)
-4. [Gameboard](##Gameboard)
-5. [Feedster](##Feedster)
-6. [Outbox](##Outbox)
+1. TV Guide
+2. Pizza Planet
+3. Workout Log
+4. Gameboard
+5. Feedster
+6. Outbox
+7. Top 10
 
 ## TV Guide
 
@@ -46,3 +47,9 @@ News feed that uses custom directives
 Email app that maps URLs to views.
 
 <img src="http://i.imgur.com/15NTVuy.gif"/>
+
+## Top 10
+
+App fetches movie data from a server and displays it in a custom directive.
+
+<img src="http://i.imgur.com/3ddt89a.png"/>
